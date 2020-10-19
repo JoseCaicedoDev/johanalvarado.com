@@ -25,7 +25,8 @@ if (bIsComfirmed) {
 		'url("https://johanaalvarado.com/wp-content/uploads/2020/06/fondo06.png")'
 	  );
 	$(".suscritor-strong").get(1).style.setProperty("color", "#000");
-}```
+}
+```
 
 ###Diseño responsivo
 > Dispositivo mobile
